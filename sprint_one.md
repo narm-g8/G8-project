@@ -32,18 +32,7 @@ Overall, we're well on track to achieve our sprint goals and are confident in ou
 
 ** Design Mockups**
 
-Login Page Mockup: (link to be provided)
-Image of Login Page Mockup Opens in a new window 
-www.behance.net
-Login Page Mockup
-Register Page Mockup: (link to be provided)
-Image of Register Page Mockup Opens in a new window 
-blog.hubspot.com
-Register Page Mockup
-Forgot Password Page Mockup: (link to be provided)
-Image of Forgot Password Page Mockup Opens in a new window 
-w3layouts.com
-Forgot Password Page Mockup
+//
 ** Burndown Chart**
 
 Access the UI design for login and register on Figma here: (link to be provided)

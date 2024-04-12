@@ -30,22 +30,7 @@ We're delighted with this progress and look forward to further developing our Wi
 
 ** Design Mockups**
 
-User Profile Mockup: (link to be provided)
-Image of Profile Page Mockup Opens in a new window 
-unblast.com
-Profile Page Mockup
-Edit Profile Page Mockup: (link to be provided)
-Image of Edit Profile Page Mockup Opens in a new window 
-www.bootdey.com
-Edit Profile Page Mockup
-Change Password Page Mockup: (link to be provided)
-Image of Change Password Page Mockup Opens in a new window 
-w3layouts.com
-Change Password Page Mockup
-Friends List Page Mockup: (link to be provided)
-Image of Friends List Page Mockup Opens in a new window 
-www.bootdey.com
-Friends List Page Mockup
+//
 ** Burndown Chart**
 
 Access the UI design for Login, Register, and Friends List on Figma here: (link to be provided)

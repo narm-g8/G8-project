@@ -34,22 +34,8 @@ The development of this social networking platform is progressing exceptionally 
 
 Design Mockups**
 
-Notification Mockup: (link to be provided)
-Image of Notification Mockup Opens in a new window 
-www.figma.com
-Notification Mockup
-Dashboard Mockup: (link to be provided)
-Image of Dashboard Mockup Opens in a new window 
-www.numerro.io
-Dashboard Mockup
-Wall Mockup (Events/News/Polls/Images): (link to be provided)
-Image of Wall Mockup Opens in a new window 
-unblast.com
-Wall Mockup
-Forum Mockup: (link to be provided)
-Image of Forum Mockup Opens in a new window 
-forum.freecodecamp.org
-Forum Mockup
+//
+
 Burndown Chart
 
 Access the UI design for Login, Notification, Events/News/Polls/Images & Comments/Like-Dislike on Figma here: (link to be provided)
